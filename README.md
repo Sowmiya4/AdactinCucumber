@@ -1,0 +1,2 @@
+# AdactinCucumber
+key = value
